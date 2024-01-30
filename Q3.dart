@@ -3,4 +3,5 @@ void main() {
   while (days.isNotEmpty) {
     print(days.removeLast());
   }
+  print("done");
 }
