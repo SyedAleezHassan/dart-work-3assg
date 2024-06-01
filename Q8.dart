@@ -1,5 +1,5 @@
 void main() {
-  List<Map<String, bool>> usersEligibility = [
+  List<Map> usersEligibility = [
     {'name': 'John', 'eligible': true},
     {'name': 'Alice', 'eligible': false},
     {'name': 'Mike', 'eligible': true},
