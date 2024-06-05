@@ -8,7 +8,7 @@ void main() {
     String pass = stdin.readLineSync()!;
     loginAttempts.add({"email": email, "password": pass});
     if (email == "aleez" && pass == "1212") {
-      print("loged in suceessfully");
+      print("loged in sucuessfully");
       isBool = true;
     } else {
       print("login failed");
