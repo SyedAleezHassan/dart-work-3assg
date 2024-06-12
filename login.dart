@@ -14,6 +14,6 @@ void main() {
       print("login failed");
     }
   }
-  print("the list of all input email and passwords are:");
+  print("the list of all inputs, email and passwords are:");
   print(loginAttempts);
 }
