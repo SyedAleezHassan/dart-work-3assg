@@ -1,5 +1,5 @@
 void main() {
-  Map<String, dynamic> car = {'brand': 'Toyota', 'color': 'Red', 'isSedan': true};
+  Map<String, dynamic> car = {'brand': 'toyota', 'color': 'Red', 'isSedan': true};
   if (car['isSedan'] && car['color'] == 'Red') {
     print('Match');
   } else {
