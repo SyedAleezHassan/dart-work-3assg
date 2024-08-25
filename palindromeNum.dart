@@ -9,6 +9,6 @@ void main() {
   if (isPalindrome(number)) {
     print('$number is a palindrome.');
   } else {
-    print('$number is not a palindrome.');
+    print('$number is not a palindrome..');
   }
 }
